@@ -6,12 +6,13 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
-### 1. [I made an AI to predict Counter Strike 2 maps](https://www.youtube.com/watch?v=RmUy7bBO_dE)
+### [I made an AI to predict Counter Strike 2 maps](https://www.youtube.com/watch?v=RmUy7bBO_dE)
 ![Counter Strike 2 AI Project](./images/cs2_map_predictor.png)
 
-This project involves using AI to predict map selections in Counter Strike 2. Check out the full video on YouTube!
+This project involves using computer vision to predict the played map in Counter Strike 2. Check out the full video on YouTube!
 
-### 2. [Embedding viewer for UMAP 3D projections of my location-guessing AI for Counter Strike 2](https://cstrike.win/)
-![UMAP Embedding Viewer](./images/umap_embedding.png)
+### [Embedding viewer for UMAP 3D projections of my location-guessing AI for Counter Strike 2](https://cstrike.win/)
+| ![UMAP Embedding 1](./images/multihead-preview.png) | ![UMAP Embedding 2](./images/default-preview.png) |
+| --- | --- |
 
 Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my website.
