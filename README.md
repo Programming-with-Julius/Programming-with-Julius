@@ -1,16 +1,17 @@
-## Hi there 👋
+# Programming with Julius
 
-<!--
-**Programming-with-Julius/Programming-with-Julius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Programming%20with%20Julius-red?style=flat-square&logo=youtube&link=https://www.youtube.com/@ProgrammingWithJulius)](https://www.youtube.com/@ProgrammingWithJulius)
 
-Here are some ideas to get you started:
+Welcome to the official GitHub profile for **Programming with Julius**! Here, I share my coding projects, tutorials, and various AI experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. [I made an AI to predict Counter Strike 2 maps](https://www.youtube.com/watch?v=RmUy7bBO_dE)
+![Counter Strike 2 AI Project](./images/cs2_map_predictor.png)
+
+This project involves using AI to predict map selections in Counter Strike 2. Check out the full video on YouTube!
+
+### 2. [Embedding viewer for UMAP 3D projections of my location-guessing AI for Counter Strike 2](https://cstrike.win/)
+![UMAP Embedding Viewer](./images/umap_embedding.png)
+
+Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my website.
