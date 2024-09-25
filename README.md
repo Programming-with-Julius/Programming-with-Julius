@@ -17,10 +17,16 @@ This project involves using computer vision to predict the played map in Counter
 
 Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my website.
 
-### [Counter-Strike 2 Map Location Dataset]([https://www.youtube.com/watch?v=RmUy7bBO_dE](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset))
-| ![de_dust2](./images/de_dust2 -542 2042 108 32 293 -0.558505 5.113815.jpg) | ![de_thera](./images/de_thera 601 -864 329 12 320 -0.209440 5.585054.jpg) |
+### [Counter-Strike 2 Map Location Dataset](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset)
+| ![de_dust2](./images/de_dust2%20-542%202042%20108%2032%20293%20-0.558505%205.113815.jpg) | ![de_thera](./images/de_thera%20601%20-864%20329%2012%20320%20-0.209440%205.585054.jpg) |
 | --- | --- |
-| ![de_anubis](./images/de_anubis 18 -1409 32 -4 29 0.069813 0.506145.jpg) | ![de_dust2](./images/de_dust2 5 -522 105 82 53 -1.431170 0.925025.jpg) |
+| ![de_anubis](./images/de_anubis%2018%20-1409%2032%20-4%2029%200.069813%200.506145.jpg) | ![de_dust2](./images/de_dust2%205%20-522%20105%2082%2053%20-1.431170%200.925025.jpg) |
 
-This dataset contains 1.7 million images from 17 Counter-Strike 2 maps (August 2024). More info in the [Repository](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset)
+
+This dataset contains 1.7 million 1024x1024 images from 17 Counter-Strike 2 maps (August 2024). Each image has a label with:
+- Mapname
+- X, Y, Z (Camera location)
+- Pitch, Yaw (Camera viewangles)
+
+More info in the [Repository](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset)
 
