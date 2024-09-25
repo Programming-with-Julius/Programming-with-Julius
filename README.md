@@ -17,7 +17,7 @@ This project involves using computer vision to predict the played map in Counter
 
 Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my website.
 
-### Counter-Strike 2 Map Location Dataset
+### [Counter-Strike 2 Map Location Dataset]([https://www.youtube.com/watch?v=RmUy7bBO_dE](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset))
 | ![de_dust2](./images/de_dust2 -542 2042 108 32 293 -0.558505 5.113815.jpg) | ![de_thera](./images/de_thera 601 -864 329 12 320 -0.209440 5.585054.jpg) |
 | --- | --- |
 | ![de_anubis](./images/de_anubis 18 -1409 32 -4 29 0.069813 0.506145.jpg) | ![de_dust2](./images/de_dust2 5 -522 105 82 53 -1.431170 0.925025.jpg) |
