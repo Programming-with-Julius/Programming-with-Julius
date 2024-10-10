@@ -6,16 +6,16 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
-### [I made an AI to predict Counter Strike 2 maps](https://www.youtube.com/watch?v=RmUy7bBO_dE)
-![Counter Strike 2 AI Project](./images/cs2_map_predictor.png)
+### [I made a GeoGuessr AI in Counter Strike 2](https://www.youtube.com/watch?v=igPX0no9L54)
+![Counter Strike 2 Location Detector](./images/cs2_location_predictor.png)
 
-This project involves using computer vision to predict the played map in Counter Strike 2. Check out the full video on YouTube!
+I created a massive dataset of CS2 images with location labels. Then I used that to train a location-predictor AI. Check out the full video on [YouTube](https://www.youtube.com/watch?v=igPX0no9L54)!
 
 ### [Embedding viewer for UMAP 3D projections of my location-guessing AI for Counter Strike 2](https://cstrike.win/)
 | ![Multihead Embeddings](./images/multihead-preview.png) | ![Default Embeddings](./images/default-preview.png) |
 | --- | --- |
 
-Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my website.
+Explore the 3D projections of my location-guessing AI, using UMAP dimensionality reduction, directly on my [website](https://cstrike.win/).
 
 ### [Counter-Strike 2 Map Location Dataset](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset)
 | ![de_dust2](./images/de_dust2%20-542%202042%20108%2032%20293%20-0.558505%205.113815.jpg) | ![de_thera](./images/de_thera%20601%20-864%20329%2012%20320%20-0.209440%205.585054.jpg) |
@@ -30,3 +30,7 @@ This dataset contains 1.7 million 1024x1024 images from 17 Counter-Strike 2 maps
 
 More info in the [Repository](https://github.com/Programming-with-Julius/CounterStrike2MapLocationDataset)
 
+### [I made an AI to predict Counter Strike 2 maps](https://www.youtube.com/watch?v=RmUy7bBO_dE)
+![Counter Strike 2 Map Classifier](./images/cs2_map_predictor.png)
+
+This project involves using computer vision to predict the played map in Counter Strike 2. Check out the full video on [YouTube](https://www.youtube.com/watch?v=RmUy7bBO_dE)!
