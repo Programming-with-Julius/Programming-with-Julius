@@ -6,6 +6,12 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [The world's worst AI Pokédex](https://www.youtube.com/watch?v=5jqpCrPYUms)
+
+[![Mew and the Pokémon recognition neural network](./images/ai-pokedex.jpg)](https://www.youtube.com/watch?v=5jqpCrPYUms)
+
+I trained a Pokémon recognition model and built it into a homemade handheld Pokédex. Real-world testing went about as well as the title suggests.
+
 ### [Mario Party DS bots](https://www.youtube.com/watch?v=_qdMh8IHeI0)
 
 [![Goomba detection in Mario Party DS](./images/mario-party-ds.jpg)](https://www.youtube.com/watch?v=_qdMh8IHeI0)
