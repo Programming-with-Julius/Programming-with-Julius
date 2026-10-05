@@ -12,14 +12,6 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 I turned a trained digit recognition network into mathematical expressions, then asked ChatGPT to evaluate it one operation at a time. An absurdly slow way to recognize handwriting.
 
-### [Network Animator](https://programming-with-julius.github.io/network-animator/)
-
-[![Glowing cyan network with animated connections](./images/network-animator.gif)](https://programming-with-julius.github.io/network-animator/)
-
-Create glowing network diagrams with animated connections. Tune the layers, colors, curves, and glow, then export a PNG.
-
-[Try the visualizer](https://programming-with-julius.github.io/network-animator/) · [Source](https://github.com/Programming-with-Julius/network-animator)
-
 ### [Pokémon Red inside a YouTube thumbnail](https://www.youtube.com/watch?v=bryeT4MtzDg)
 
 [![The completed Pokémon thumbnail experiment, with the final party, eight badges, and player statistics](./images/pokemon-thumbnail.jpg)](https://www.youtube.com/watch?v=bryeT4MtzDg)
