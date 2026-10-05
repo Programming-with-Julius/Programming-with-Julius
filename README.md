@@ -6,6 +6,12 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [π Plays Pokémon Red](https://www.youtube.com/watch?v=iaICc_NYSN8)
+
+[![Pallet Town and Route 1 visit heatmaps from the run driven by one billion digits of pi](./images/pi-pokemon-heatmaps.png)](https://www.youtube.com/watch?v=iaICc_NYSN8)
+
+I mapped one billion digits of π to Game Boy inputs and let them loose in Pokémon Red. The heatmaps show where this very determined player spent its time.
+
 ### [A neural network inside ChatGPT](https://www.youtube.com/watch?v=qEwmR20Ss9Y)
 
 [![Ten handwritten digits comparing the model's PyTorch predictions with ChatGPT's calculations, with eight matching predictions](./images/chatgpt-mnist.png)](https://www.youtube.com/watch?v=qEwmR20Ss9Y)
