@@ -6,6 +6,14 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [Network Animator](https://programming-with-julius.github.io/network-animator/)
+
+[![Glowing cyan network with animated connections](./images/network-animator.gif)](https://programming-with-julius.github.io/network-animator/)
+
+Create glowing network diagrams with animated connections. Tune the layers, colors, curves, and glow, then export a PNG.
+
+[Try the visualizer](https://programming-with-julius.github.io/network-animator/) · [Source](https://github.com/Programming-with-Julius/network-animator)
+
 ### [Headline Animator](https://programming-with-julius.github.io/headline-animator/)
 
 [![Headlines and typography changing around the stationary keyword AI](./images/headline-animator.gif)](https://programming-with-julius.github.io/headline-animator/)
