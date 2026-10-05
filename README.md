@@ -6,6 +6,12 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [A neural network inside ChatGPT](https://www.youtube.com/watch?v=qEwmR20Ss9Y)
+
+[![Ten handwritten digits comparing the model's PyTorch predictions with ChatGPT's calculations, with eight matching predictions](./images/chatgpt-mnist.png)](https://www.youtube.com/watch?v=qEwmR20Ss9Y)
+
+I turned a trained digit recognition network into mathematical expressions, then asked ChatGPT to evaluate it one operation at a time. An absurdly slow way to recognize handwriting.
+
 ### [Network Animator](https://programming-with-julius.github.io/network-animator/)
 
 [![Glowing cyan network with animated connections](./images/network-animator.gif)](https://programming-with-julius.github.io/network-animator/)
