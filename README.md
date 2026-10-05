@@ -6,6 +6,14 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [Mario Party DS bots](https://www.youtube.com/watch?v=_qdMh8IHeI0)
+
+[![Goomba detection in Mario Party DS](./images/mario-party-ds.jpg)](https://www.youtube.com/watch?v=_qdMh8IHeI0)
+
+Computer vision, automated touchscreen inputs, and a growing collection of bots taking on Mario Party DS minigames.
+
+Watch the series: [1](https://www.youtube.com/watch?v=_qdMh8IHeI0) · [2](https://www.youtube.com/watch?v=YWCN52pM8Ew) · [3](https://www.youtube.com/watch?v=LictKtLqeDc) · [4](https://www.youtube.com/watch?v=TQOjjxQ4lQc) · [5](https://www.youtube.com/watch?v=2ZFOSs09wzo) · [6](https://www.youtube.com/watch?v=TaI30Sjd5wQ) · [7](https://www.youtube.com/watch?v=ZXmSl9uy5H0)
+
 ### [I made a GeoGuessr AI in Counter Strike 2](https://www.youtube.com/watch?v=igPX0no9L54)
 ![Counter Strike 2 Location Detector](./images/cs2_location_predictor.png)
 
