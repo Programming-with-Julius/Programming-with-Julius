@@ -6,6 +6,14 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [Pokémon Red inside a YouTube thumbnail](https://www.youtube.com/watch?v=bryeT4MtzDg)
+
+[![The completed Pokémon thumbnail experiment, with the final party, eight badges, and player statistics](./images/pokemon-thumbnail.jpg)](https://www.youtube.com/watch?v=bryeT4MtzDg)
+
+Viewers played Pokémon Red through YouTube comments, with the game state published in the thumbnail every 15 minutes. The adventure finished with all eight badges.
+
+[Watch the video](https://www.youtube.com/watch?v=bryeT4MtzDg) · [Draw a route through Kanto](https://programming-with-julius.github.io/PokemonInThumbnailPage/) · [Route planner source](https://github.com/Programming-with-Julius/PokemonInThumbnailPage)
+
 ### [ChatGPT in PictoChat](https://www.youtube.com/watch?v=r0tgHHF0TOc)
 
 [![ChatGPT replying to a handwritten message in PictoChat](./images/pictochatgpt.jpg)](https://www.youtube.com/watch?v=r0tgHHF0TOc)
