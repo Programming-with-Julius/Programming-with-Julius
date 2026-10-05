@@ -6,6 +6,12 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [ChatGPT in PictoChat](https://www.youtube.com/watch?v=r0tgHHF0TOc)
+
+[![ChatGPT replying to a handwritten message in PictoChat](./images/pictochatgpt.jpg)](https://www.youtube.com/watch?v=r0tgHHF0TOc)
+
+Modern AI meets the Nintendo DS: handwritten messages go to ChatGPT, and its replies appear right inside PictoChat.
+
 ### [The world's worst AI Pokédex](https://www.youtube.com/watch?v=5jqpCrPYUms)
 
 [![Mew and the Pokémon recognition neural network](./images/ai-pokedex.jpg)](https://www.youtube.com/watch?v=5jqpCrPYUms)
