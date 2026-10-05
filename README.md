@@ -6,6 +6,14 @@ Welcome to the official GitHub profile for **Programming with Julius**! Here, I 
 
 ## Projects
 
+### [Headline Animator](https://programming-with-julius.github.io/headline-animator/)
+
+[![Headlines and typography changing around the stationary keyword AI](./images/headline-animator.gif)](https://programming-with-julius.github.io/headline-animator/)
+
+Build animated headline montages with a shared keyword held in place. Customize the text, fonts, colors, and crossfades.
+
+[Try the editor](https://programming-with-julius.github.io/headline-animator/) · [Source](https://github.com/Programming-with-Julius/headline-animator)
+
 ### [Pokémon Red inside a YouTube thumbnail](https://www.youtube.com/watch?v=bryeT4MtzDg)
 
 [![The completed Pokémon thumbnail experiment, with the final party, eight badges, and player statistics](./images/pokemon-thumbnail.jpg)](https://www.youtube.com/watch?v=bryeT4MtzDg)
